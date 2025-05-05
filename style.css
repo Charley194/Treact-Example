@@ -285,6 +285,10 @@ HEADER / ABOUT US ↓
 
 */
 
+section {
+    padding: 0 32px;
+}
+
 
 header .row {
     display: flex;
